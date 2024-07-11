@@ -9,7 +9,7 @@
 <hr/>
 <a href="/updateUser">修改用户</a>
 <hr>
-<a href="deleteUser">删除用户</a>
-<a href="/findUser">查询用户</a>
+<a href="deleteUser">删除用户ii</a>
+<a href="/findUser">查询用户1</a>
 </body>
 </html>
