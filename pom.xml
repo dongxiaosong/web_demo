@@ -6,6 +6,13 @@
   <artifactId>web_demo</artifactId>  
   <version>1.0-SNAPSHOT</version>  
   <packaging>jar</packaging>
+  <distributionmanagement>
+		<repository>
+			<id>jfrog</id>
+			<name>JFrog Artifactory Releases</name>
+			<url>http://192.168.16.177:8082/artifactory/test/</url>
+		</repository>
+	</distributionmanagement>
   <dependencies> 
     <dependency> 
       <groupId>javax.servlet</groupId>  
